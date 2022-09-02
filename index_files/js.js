@@ -1,11 +1,12 @@
 
+
 // Copyright 2012 Google Inc. All rights reserved.
 (function(){
 
 var data = {
 "resource": {
   "version":"2",
-  
+
   "macros":[{"function":"__e"},{"function":"__c","vtp_value":true},{"function":"__c","vtp_value":"google.se"},{"function":"__c","vtp_value":0},{"vtp_signal":0,"function":"__c","vtp_value":0}],
   "tags":[{"function":"__gct","vtp_trackingId":"G-KEZBCGCT4R","vtp_sessionDuration":0,"tag_id":19},{"function":"__ogt_ip_mark","vtp_instanceOrder":0,"vtp_paramValue":"internal","vtp_ruleResult":["macro",1],"tag_id":21},{"function":"__ccd_conversion_marking","vtp_conversionRules":["list",["map","matchingRules","{\"type\":5,\"args\":[{\"stringValue\":\"purchase\"},{\"contextValue\":{\"namespaceType\":1,\"keyParts\":[\"eventName\"]}}]}"]],"vtp_instanceDestinationId":"G-KEZBCGCT4R","tag_id":23},{"function":"__ccd_em_download","vtp_includeParams":true,"vtp_instanceDestinationId":"G-KEZBCGCT4R","tag_id":24},{"function":"__ccd_em_outbound_click","priority":0,"vtp_includeParams":true,"vtp_instanceDestinationId":"G-KEZBCGCT4R","tag_id":25},{"function":"__ccd_em_page_view","vtp_historyEvents":true,"vtp_includeParams":true,"vtp_instanceDestinationId":"G-KEZBCGCT4R","tag_id":26},{"function":"__ccd_em_scroll","vtp_includeParams":true,"vtp_instanceDestinationId":"G-KEZBCGCT4R","tag_id":27},{"function":"__ccd_em_site_search","vtp_searchQueryParams":"q,s,search,query,keyword","vtp_includeParams":true,"vtp_instanceDestinationId":"G-KEZBCGCT4R","tag_id":28},{"function":"__ccd_em_video","vtp_includeParams":true,"vtp_instanceDestinationId":"G-KEZBCGCT4R","tag_id":29},{"function":"__ccd_ga_regscope","vtp_settingsTable":["list",["map","redactFieldGroup","DEVICE_AND_GEO","disallowAllRegions",false,"disallowedRegions",""],["map","redactFieldGroup","GOOGLE_SIGNALS","disallowAllRegions",true,"disallowedRegions",""]],"vtp_instanceDestinationId":"G-KEZBCGCT4R","tag_id":30},{"function":"__set_product_settings","vtp_instanceDestinationId":"G-KEZBCGCT4R","vtp_foreignTldMacroResult":["macro",2],"vtp_isChinaVipRegionMacroResult":["macro",3],"tag_id":31},{"function":"__ogt_google_signals","vtp_googleSignals":"DISABLED","vtp_instanceDestinationId":"G-KEZBCGCT4R","vtp_serverMacroResult":["macro",4],"tag_id":32}],
   "predicates":[{"function":"_eq","arg0":["macro",0],"arg1":"gtm.js"},{"function":"_eq","arg0":["macro",0],"arg1":"gtm.init"}],
