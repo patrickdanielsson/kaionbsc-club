@@ -5,19 +5,19 @@
     "description": "Mint K(AI)",
     "icons": [
         {
-            "src": "https://files.kaionbsc.xyz/android-chrome-192x192.png",
+            "src": "https://www.kaionbsc.club/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://files.kaionbsc.xyz/android-chrome-512x512.png",
+            "src": "https://www.kaionbsc.club/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
     "theme_color": "#5bbad5",
     "background_color": "#5bbad5",
-    "scope": "https://www.kaionbsc.xyz/",
-    "start_url": "https://www.kaionbsc.xyz/",
+    "scope": "https://www.kaionbsc.club/",
+    "start_url": "https://www.kaionbsc.club/",
     "display": "standalone"
 }
